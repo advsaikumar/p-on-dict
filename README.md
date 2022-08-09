@@ -15,3 +15,5 @@ while True:
     if option=='no':
         break
 print("Thanks for using our application")
+
+print("testing git")
